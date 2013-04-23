@@ -1,0 +1,16 @@
+These are instructions to have the pd patch load as soon as 
+the Raspberry pi boots up. 
+
+*Sound should not be produced until 
+the switch is flipped.
+
+on the raspberry pi-
+open the terminal
+
+$ sudo nano /etc/rc.local
+
+assuming that the patch is named 'mypatch.pd' and on the desktop, 
+add the following line:
+
+pd-extended nogui -audiobuf 100 -noadc /home/pi/Desktop/mypatch.pd
+
