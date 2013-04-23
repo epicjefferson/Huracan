@@ -16,15 +16,6 @@ Instrucciones para instalar pd-extended 0.43.3
 para Raspberry Pi en:
 http://www.epicjefferson.com/2012/10/raspberry-pi-pd/
 
-El proyecto inicialmente se construcyó con una netbook,
-luego se transfirió todo el sistema a Raspberry Pi.
- 
-
-Originalmente el mechanismo del organnette era un
-motor dc luego fue reemplazado por un 'stepper motor' para
-mejor control y reducción de velocidad. Por eso los 2 archivos
-de arduino. Deberás escoger el más apropiado para tu proyecto. 
-
 para más información:
 http://www.puredata.info
 http://www.raspberrypi.org
