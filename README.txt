@@ -1,6 +1,6 @@
-El proyecto Huracán es una instalación sonora que incorpora
+El proyecto Huracï¿½n es una instalaciï¿½n sonora que incorpora
 un arduino para recibir data de photoresistores y controlar 
-el motor de un organnette con un 'switch' físico. El sistema 
+el motor de un organnette con un 'switch' fï¿½sico. El sistema 
 utiliza un Raspberry Pi corriendo Pd-Extended para procesar 
 la data de los photosensores y  controlar el sistema de sonido.
 
@@ -16,18 +16,18 @@ Instrucciones para instalar pd-extended 0.43.3
 para Raspberry Pi en:
 http://www.epicjefferson.com/2012/10/raspberry-pi-pd/
 
-El proyecto inicialmente se construcyó con una netbook,
-luego se transfirió todo el sistema a Raspberry Pi.
+El proyecto inicialmente se construcyï¿½ con una netbook,
+luego se transfiriï¿½ todo el sistema a Raspberry Pi.
 
 Originalmente el mechanismo del organnette era un
 motor dc luego fue reemplazado por un 'stepper motor' para
-mejor control y reducción de velocidad. Por eso los 2 archivos
-de arduino. Deberás escoger el más apropiado para tu proyecto. 
+mejor control y reducciï¿½n de velocidad. Por eso los 2 archivos
+de arduino. Deberï¿½s escoger el mï¿½s apropiado para tu proyecto. 
 
 
 
 
-para más información:
+para mï¿½s informaciï¿½n:
 http://www.puredata.info
 http://www.raspberrypi.org
 http://www.arduino.cc
